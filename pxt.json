@@ -5,7 +5,6 @@
     },
     "description": "",
     "files": [
-        "test.ts",
         "neopixel.ts",
         "sendbuffer.asm",
         "README.md"
