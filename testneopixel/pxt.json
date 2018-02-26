@@ -1,0 +1,20 @@
+{
+    "name": "TestNeopixel",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "",
+    "files": [
+        "neopixel.ts",
+        "sendbuffer.asm"
+    ],
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "enabled": 0
+                }
+            }
+        }
+    }
+}

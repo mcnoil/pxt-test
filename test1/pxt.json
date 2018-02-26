@@ -1,0 +1,11 @@
+{
+    "name": "test",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "",
+    "files": [
+        "test.ts",
+        "README.md"
+    ]
+}
