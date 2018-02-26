@@ -40,20 +40,12 @@ enum NeoPixelMode {
  * Functions to operate NeoPixel strips.
  */
 //% weight=5 color=#2699BF icon="\uf110"
-namespace neopixel_more {
-    
+namespace neopixel {
     //% shim=sendBufferAsm
     //% parts="neopixel"
     function sendBuffer(buf: Buffer, pin: DigitalPin) {
     }
-}    
 
-namespace basic {
-    function testMethod() {
-    }
-}    
-
-namespace neopixel {
     /**
      * A NeoPixel strip
      */
