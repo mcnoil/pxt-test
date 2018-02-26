@@ -1,11 +1,20 @@
 {
-    "name": "test",
+    "name": "TestModul",
     "dependencies": {
         "core": "*"
     },
     "description": "",
     "files": [
-        "test.ts",
-        "README.md"
-    ]
+        "neopixel.ts",
+        "sendbuffer.asm"
+    ],
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "enabled": 0
+                }
+            }
+        }
+    }
 }
