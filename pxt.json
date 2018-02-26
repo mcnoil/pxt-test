@@ -1,12 +1,14 @@
 {
-    "name": "TestNeopixel",
+    "name": "test",
     "dependencies": {
         "core": "*"
     },
     "description": "",
     "files": [
+        "test.ts",
         "neopixel.ts",
-        "sendbuffer.asm"
+        "sendbuffer.asm",
+        "README.md"
     ],
     "yotta": {
         "config": {
