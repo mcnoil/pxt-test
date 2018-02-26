@@ -1,2 +1,2 @@
 # pxttest
-Dieses reposetory enthällt experimente zum erweitern des pxt.calliope
+Dieses repository enthält experimente zum erweitern des pxt.calliope.
